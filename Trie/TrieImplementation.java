@@ -25,7 +25,7 @@ class Node {
 
     // Mark end of word
     void setEnd() {
-        flag = false;
+        flag = true;
     }
 
     // Check if it is end of word
